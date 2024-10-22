@@ -28,6 +28,8 @@
 
 # comet-and-commander
 
+A 3d space RTS in HTML.
+
 <br>
 <div align="center">
 © Cursed Entertainment
