@@ -1,6 +1,9 @@
 [![Twitter: @NorowaretaGemu](https://img.shields.io/badge/X-@NorowaretaGemu-blue.svg?style=flat)](https://x.com/NorowaretaGemu)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+<a href="https://github.com/CursedPrograms/website-template/actions/workflows/proof-html.yml">
+    <img class="workflow-badge workflow-success" src="https://github.com/CursedPrograms/website-template/actions/workflows/proof-html.yml/badge.svg" alt="Proof HTML Workflow">
+</a>
 <br>
 <div align="center">
   <a href="https://ko-fi.com/cursedentertainment">
@@ -8,11 +11,6 @@
   </a>
 </div>
   <br>
-
-<a href="https://github.com/CursedPrograms/website-template/actions/workflows/proof-html.yml">
-    <img class="workflow-badge workflow-success" src="https://github.com/CursedPrograms/website-template/actions/workflows/proof-html.yml/badge.svg" alt="Proof HTML Workflow">
-</a>
-<br>
 <div align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
