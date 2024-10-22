@@ -26,7 +26,7 @@
   </div>
 <br>
 
-# website-template
+# comet-and-commander
 
 <br>
 <div align="center">
